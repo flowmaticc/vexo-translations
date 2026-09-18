@@ -382,5 +382,69 @@
     "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/caES.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
+  },
+  {
+    "codigo": "esES",
+    "nombre": "Español",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/esES.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "enEN",
+    "nombre": "English",
+    "bandera": "🇬🇧",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/enEN.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "frFR",
+    "nombre": "Français",
+    "bandera": "🇫🇷",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/frFR.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "deDE",
+    "nombre": "Deutsch",
+    "bandera": "🇩🇪",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/deDE.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "itIT",
+    "nombre": "Italiano",
+    "bandera": "🇮🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/itIT.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "ptPT",
+    "nombre": "Português",
+    "bandera": "🇵🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/ptPT.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "vaES",
+    "nombre": "Valencià",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/vaES.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
+  },
+  {
+    "codigo": "caES",
+    "nombre": "Català",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/caES.json",
+    "version_idioma": "7",
+    "version_minima_programa": "3.0.0.15"
   }
 ]
