@@ -510,5 +510,69 @@
     "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/caES.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
+  },
+  {
+    "codigo": "esES",
+    "nombre": "Español",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/esES.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "enEN",
+    "nombre": "English",
+    "bandera": "🇬🇧",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/enEN.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "frFR",
+    "nombre": "Français",
+    "bandera": "🇫🇷",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/frFR.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "deDE",
+    "nombre": "Deutsch",
+    "bandera": "🇩🇪",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/deDE.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "itIT",
+    "nombre": "Italiano",
+    "bandera": "🇮🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/itIT.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "ptPT",
+    "nombre": "Português",
+    "bandera": "🇵🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/ptPT.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "vaES",
+    "nombre": "Valencià",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/vaES.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "caES",
+    "nombre": "Català",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/caES.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
   }
 ]
