@@ -574,5 +574,13 @@
     "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/caES.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
+  },
+  {
+    "codigo": "ruRU",
+    "nombre": "Русский",
+    "bandera": "🇷🇺",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/ruRU.json",
+    "version_idioma": "9",
+    "version_minima_programa": "3.0.0.19"
   }
 ]
