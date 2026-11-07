@@ -654,5 +654,77 @@
     "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/ruRU.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
+  },
+  {
+    "codigo": "esES",
+    "nombre": "Español",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/esES.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "enEN",
+    "nombre": "English",
+    "bandera": "🇬🇧",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/enEN.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "frFR",
+    "nombre": "Français",
+    "bandera": "🇫🇷",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/frFR.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "deDE",
+    "nombre": "Deutsch",
+    "bandera": "🇩🇪",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/deDE.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "itIT",
+    "nombre": "Italiano",
+    "bandera": "🇮🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/itIT.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "ptPT",
+    "nombre": "Português",
+    "bandera": "🇵🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/ptPT.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "vaES",
+    "nombre": "Valencià",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/vaES.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "caES",
+    "nombre": "Català",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/caES.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "ruRU",
+    "nombre": "Русский",
+    "bandera": "🇷🇺",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/ruRU.json",
+    "version_idioma": "11",
+    "version_minima_programa": "3.0.0.21"
   }
 ]
