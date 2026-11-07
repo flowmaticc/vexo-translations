@@ -3,7 +3,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/esES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -11,7 +11,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/enEN.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -19,7 +19,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/frFR.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -27,7 +27,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/deDE.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -35,7 +35,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/itIT.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -43,7 +43,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/ptPT.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -51,7 +51,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/vaES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -59,7 +59,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v1/caES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -67,7 +67,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/esES.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -75,7 +75,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/enEN.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -83,7 +83,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/frFR.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -91,7 +91,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/deDE.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -99,7 +99,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/itIT.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -107,7 +107,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/ptPT.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -115,7 +115,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/vaES.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -123,7 +123,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v2/caES.json",
     "version_idioma": "2",
     "version_minima_programa": "3.0.0.8"
   },
@@ -131,7 +131,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/esES.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -139,7 +139,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/enEN.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -147,7 +147,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/frFR.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -155,7 +155,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/deDE.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -163,7 +163,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/itIT.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -171,7 +171,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/ptPT.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -179,7 +179,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/vaES.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -187,7 +187,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v3/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v3/caES.json",
     "version_idioma": "3",
     "version_minima_programa": "3.0.0.9"
   },
@@ -195,7 +195,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/esES.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -203,7 +203,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/enEN.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -211,7 +211,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/frFR.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -219,7 +219,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/deDE.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -227,7 +227,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/itIT.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -235,7 +235,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/ptPT.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -243,7 +243,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/vaES.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -251,7 +251,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v4/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v4/caES.json",
     "version_idioma": "4",
     "version_minima_programa": "3.0.0.10"
   },
@@ -259,7 +259,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/esES.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -267,7 +267,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/enEN.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -275,7 +275,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/frFR.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -283,7 +283,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/deDE.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -291,7 +291,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/itIT.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -299,7 +299,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/ptPT.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -307,7 +307,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/vaES.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -315,7 +315,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v5/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v5/caES.json",
     "version_idioma": "5",
     "version_minima_programa": "3.0.0.11"
   },
@@ -323,7 +323,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/esES.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -331,7 +331,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/enEN.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -339,7 +339,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/frFR.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -347,7 +347,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/deDE.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -355,7 +355,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/itIT.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -363,7 +363,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/ptPT.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -371,7 +371,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/vaES.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -379,7 +379,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v6/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v6/caES.json",
     "version_idioma": "6",
     "version_minima_programa": "3.0.0.14"
   },
@@ -387,7 +387,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/esES.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -395,7 +395,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/enEN.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -403,7 +403,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/frFR.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -411,7 +411,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/deDE.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -419,7 +419,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/itIT.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -427,7 +427,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/ptPT.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -435,7 +435,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/vaES.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -443,7 +443,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v7/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v7/caES.json",
     "version_idioma": "7",
     "version_minima_programa": "3.0.0.15"
   },
@@ -451,7 +451,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/esES.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -459,7 +459,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/enEN.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -467,7 +467,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/frFR.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -475,7 +475,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/deDE.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -483,7 +483,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/itIT.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -491,7 +491,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/ptPT.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -499,7 +499,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/vaES.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -507,7 +507,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v8/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v8/caES.json",
     "version_idioma": "8",
     "version_minima_programa": "3.0.0.18"
   },
@@ -515,7 +515,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/esES.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -523,7 +523,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/enEN.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -531,7 +531,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/frFR.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -539,7 +539,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/deDE.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -547,7 +547,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/itIT.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -555,7 +555,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/ptPT.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -563,7 +563,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/vaES.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -571,7 +571,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/caES.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -579,7 +579,7 @@
     "codigo": "ruRU",
     "nombre": "Русский",
     "bandera": "🇷🇺",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v9/ruRU.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v9/ruRU.json",
     "version_idioma": "9",
     "version_minima_programa": "3.0.0.19"
   },
@@ -587,7 +587,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/esES.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -595,7 +595,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/enEN.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -603,7 +603,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/frFR.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -611,7 +611,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/deDE.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -619,7 +619,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/itIT.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -627,7 +627,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/ptPT.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -635,7 +635,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/vaES.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -643,7 +643,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/caES.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -651,7 +651,7 @@
     "codigo": "ruRU",
     "nombre": "Русский",
     "bandera": "🇷🇺",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v10/ruRU.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v10/ruRU.json",
     "version_idioma": "10",
     "version_minima_programa": "3.0.0.20"
   },
@@ -659,7 +659,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/esES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/esES.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -667,7 +667,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/enEN.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/enEN.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -675,7 +675,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/frFR.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/frFR.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -683,7 +683,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/deDE.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/deDE.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -691,7 +691,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/itIT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/itIT.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -699,7 +699,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/ptPT.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/ptPT.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -707,7 +707,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/vaES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/vaES.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -715,7 +715,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/caES.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/caES.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   },
@@ -723,7 +723,7 @@
     "codigo": "ruRU",
     "nombre": "Русский",
     "bandera": "🇷🇺",
-    "url": "https://github.com/joseqwrtt/update_language/releases/download/v11/ruRU.json",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/ruRU.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
   }
