@@ -726,5 +726,77 @@
     "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v11/ruRU.json",
     "version_idioma": "11",
     "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "esES",
+    "nombre": "Español",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/esES.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "enEN",
+    "nombre": "English",
+    "bandera": "🇬🇧",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/enEN.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "frFR",
+    "nombre": "Français",
+    "bandera": "🇫🇷",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/frFR.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "deDE",
+    "nombre": "Deutsch",
+    "bandera": "🇩🇪",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/deDE.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "itIT",
+    "nombre": "Italiano",
+    "bandera": "🇮🇹",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/itIT.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "ptPT",
+    "nombre": "Português",
+    "bandera": "🇵🇹",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/ptPT.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "vaES",
+    "nombre": "Valencià",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/vaES.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "caES",
+    "nombre": "Català",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/caES.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
+  },
+  {
+    "codigo": "ruRU",
+    "nombre": "Русский",
+    "bandera": "🇷🇺",
+    "url": "https://github.com/flowmaticc/vexo-translations/releases/download/v12/ruRU.json",
+    "version_idioma": "12",
+    "version_minima_programa": "3.0.0.21"
   }
 ]
